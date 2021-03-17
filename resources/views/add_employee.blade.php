@@ -18,10 +18,10 @@
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/">h2<b>add_employee</b></a>
+          <a class="nav-link active" aria-current="page" href="/"><b>add_employee</b></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/search_employee">h2<b>Search_employee</b></a>
+          <a class="nav-link" href="/search_employee"><b>Search_employee</b></a>
         </li>
     </div>
   </div>
