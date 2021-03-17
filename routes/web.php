@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/search_employee', function () {
     return view('search_employee');
 });
+Route::get('/About', function () {
+    return view('About us');
+});

@@ -22,6 +22,9 @@
         <li class="nav-item">
           <a class="nav-link" href="/search_employee"><b>Search_employee</b></a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="/About"><b>About us</b></a>
+        </li>
     </div>
   </div>
 </nav>
